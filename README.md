@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Justin, an <a href=https://www.linkedin.com/in/justin-harris-061048305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjqUwzdUPTDmM8XEXcqkIEQ%3D%3D>IT Professional</a>☺</h1>
+<h1>Hi, I'm Justin Harris, an <a href=https://www.linkedin.com/in/justin-harris-061048305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjqUwzdUPTDmM8XEXcqkIEQ%3D%3D>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
